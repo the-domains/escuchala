@@ -1,0 +1,28 @@
+name: Escuchala
+favicon: null
+layout_spectrum: 0.8243762287311256
+typography_spectrum: 0.4701234744861722
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5497389729134738
+  lightness: 0.7322796829976141
+  saturation: 0.9664848803076893
+  rhythmicContrast: 0.7716754758730531
+purpose: []
